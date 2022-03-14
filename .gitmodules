@@ -8,3 +8,8 @@
 	url = https://github.com/OpenNeuroDatasets/ds000210.git
 	datalad-id = 3fd4945e-8914-11e8-8cf8-0242ac12001a
 	datalad-url = https://github.com/OpenNeuroDatasets/ds000210.git
+[submodule "raw/simultaneous_asl_bold_resting"]
+	path = raw/simultaneous_asl_bold_resting
+	url = https://github.com/OpenNeuroDatasets/ds000216.git
+	datalad-id = 4c6e700a-895f-11e8-9d3d-0242ac12000e
+	datalad-url = https://github.com/OpenNeuroDatasets/ds000216.git
