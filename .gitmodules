@@ -3,3 +3,8 @@
 	url = https://github.com/OpenNeuroDatasets/ds000258.git
 	datalad-id = ad524d28-8960-11e8-aef3-0242ac120023
 	datalad-url = https://github.com/OpenNeuroDatasets/ds000258.git
+[submodule "raw/autobiographical_memory"]
+	path = raw/autobiographical_memory
+	url = https://github.com/OpenNeuroDatasets/ds000210.git
+	datalad-id = 3fd4945e-8914-11e8-8cf8-0242ac12001a
+	datalad-url = https://github.com/OpenNeuroDatasets/ds000210.git
