@@ -1,0 +1,5 @@
+[submodule "raw/multi_echo_cambridge"]
+	path = raw/multi_echo_cambridge
+	url = https://github.com/OpenNeuroDatasets/ds000258.git
+	datalad-id = ad524d28-8960-11e8-aef3-0242ac120023
+	datalad-url = https://github.com/OpenNeuroDatasets/ds000258.git
