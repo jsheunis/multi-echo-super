@@ -18,3 +18,8 @@
 	url = https://github.com/OpenNeuroDatasets/ds000254.git
 	datalad-id = ecb0baec-89e7-11e8-9326-0242ac12000d
 	datalad-url = https://github.com/OpenNeuroDatasets/ds000254.git
+[submodule "raw/valence_processing"]
+	path = raw/valence_processing
+	url = https://github.com/OpenNeuroDatasets/ds001491.git
+	datalad-id = 3bde4c02-ac66-11e8-b2b1-0242ac13001d
+	datalad-url = https://github.com/OpenNeuroDatasets/ds001491.git
