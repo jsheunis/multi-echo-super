@@ -23,3 +23,8 @@
 	url = https://github.com/OpenNeuroDatasets/ds001491.git
 	datalad-id = 3bde4c02-ac66-11e8-b2b1-0242ac13001d
 	datalad-url = https://github.com/OpenNeuroDatasets/ds001491.git
+[submodule "raw/masking_test"]
+	path = raw/masking_test
+	url = https://github.com/OpenNeuroDatasets/ds002156.git
+	datalad-id = 999393b6-ce5d-11e9-9b07-fa7f7225337a
+	datalad-url = https://github.com/OpenNeuroDatasets/ds002156.git
