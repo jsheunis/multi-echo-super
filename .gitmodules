@@ -28,3 +28,8 @@
 	url = https://github.com/OpenNeuroDatasets/ds002156.git
 	datalad-id = 999393b6-ce5d-11e9-9b07-fa7f7225337a
 	datalad-url = https://github.com/OpenNeuroDatasets/ds002156.git
+[submodule "raw/le_petit_prince"]
+	path = raw/le_petit_prince
+	url = https://github.com/OpenNeuroDatasets/ds003643.git
+	datalad-id = acc00a1b-08c3-4b06-ad19-3de01b33eeed
+	datalad-url = https://github.com/OpenNeuroDatasets/ds003643.git
