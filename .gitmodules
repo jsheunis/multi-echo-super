@@ -33,3 +33,8 @@
 	url = https://github.com/OpenNeuroDatasets/ds003643.git
 	datalad-id = acc00a1b-08c3-4b06-ad19-3de01b33eeed
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003643.git
+[submodule "derivatives/multi_echo_cambridge_fmriprep"]
+	path = derivatives/multi_echo_cambridge_fmriprep
+	url = https://github.com/jsheunis/multi-echo-cambridge-fmriprep.git
+	datalad-id = 6fadf6df-c94a-46d5-952f-bb622567b826
+	datalad-url = https://github.com/jsheunis/multi-echo-cambridge-fmriprep.git
