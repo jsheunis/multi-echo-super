@@ -38,3 +38,8 @@
 	url = https://github.com/jsheunis/multi-echo-cambridge-fmriprep.git
 	datalad-id = 6fadf6df-c94a-46d5-952f-bb622567b826
 	datalad-url = https://github.com/jsheunis/multi-echo-cambridge-fmriprep.git
+[submodule "derivatives/masking_test_fmriprep"]
+	path = derivatives/masking_test_fmriprep
+	url = https://github.com/jsheunis/masking-test-fmriprep.git
+	datalad-id = 943ccd80-cf5f-4310-8cd8-ff16d5dbbd8b
+	datalad-url = https://github.com/jsheunis/masking-test-fmriprep.git
