@@ -1,1 +1,1 @@
-datalad addurls --fast code/cambridge_manifest.csv '{url}' 'derivatives/multi_echo_cambridge_fmriprep//{filepath}'
+datalad addurls -d masking_test_fmriprep --fast multi-echo-super/code/masking_test_manifest.csv '{url}' '{filepath}'
